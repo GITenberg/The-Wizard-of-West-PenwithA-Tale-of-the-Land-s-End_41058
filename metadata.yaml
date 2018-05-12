@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40956'
     url: http://www.gutenberg.org/2009/agents/40956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41058#The-Wizard-of-West-PenwithA-Tale-of-the-Land-s-End
 gutenberg_issued: '2012-10-14'
 gutenberg_type: Text
 identifiers:
